@@ -1,8 +1,8 @@
-## 📜 Description
+## 📜 Description $${\color{red}*}$$
 
 <!-- Description of the changes made and their purpose. -->
 
-## 📝 Release Notes (Required)
+## 📝 Release Notes $${\color{red}*}$$	
 
 <!--
 Write a brief summary of what this change does, suitable for customer-facing release notes.
@@ -15,7 +15,7 @@ Example:
 ## 📩 Additional Notes  
 <!-- Any relevant information for the reviewer. -->
 
-## ✅ Checklist  
+## ✅ Checklist $${\color{red}*}$$
 
 ### 🧑‍💻 Developer
 - [ ] **ESLint** passes with no errors/warnings  
