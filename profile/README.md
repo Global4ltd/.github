@@ -17,11 +17,10 @@ This GitHub organization hosts a variety of projects related to our internal too
 
 ## 👥 Meet the Team
 
-- **Tanis Roberts** - Lead Developer
-- **Chris Lawson** - Solutions Architect
-- **Kiran Nepali** - Developer
-- **Ben Pearce** - Developer
-- **Ryan Crane** - Developer
+- **Chris Lawson** - DevOps Lead and Solutions Architect
+- **Sam Wallis** - Developer
+- **Sadie Payne** - Developer
+- **Anmol Mahajan** - Analytics Engineer
 
 For any questions or issues, please contact us at: **[devops@global4.co.uk](mailto:devops@global4.co.uk)**
 
