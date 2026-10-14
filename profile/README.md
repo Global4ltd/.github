@@ -18,9 +18,9 @@ This GitHub organization hosts a variety of projects related to our internal too
 ## 👥 Meet the Team
 
 - **Chris Lawson** - DevOps Lead and Solutions Architect
+- **Anmol Mahajan** - Analytics Engineer
 - **Sam Wallis** - Developer
 - **Sadie Payne** - Developer
-- **Anmol Mahajan** - Analytics Engineer
 
 For any questions or issues, please contact us at: **[devops@global4.co.uk](mailto:devops@global4.co.uk)**
 
