@@ -1,7 +1,7 @@
 ---
 name: Performance issue
 about: Suggest an idea for this project
-title: "[PERF] "
+title: "[PERF]"
 labels: performance
 assignees: ''
 type: Feature
